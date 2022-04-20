@@ -3,6 +3,7 @@
 <suite name="Suite">
 	<listeners>
 		<listener class-name="com.auto.framework.base.TestListener" />
+		
 	</listeners>
 
 	<test name="Tests">

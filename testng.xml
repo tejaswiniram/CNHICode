@@ -5,7 +5,6 @@
 		<listener class-name="com.auto.framework.base.TestListener" />
 		
 	</listeners>
-
 	<test name="Tests">
 		<classes>
 			<class name="com.cnhi.tests.AppointmentTest"/>

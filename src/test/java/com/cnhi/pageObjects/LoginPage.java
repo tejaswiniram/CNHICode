@@ -46,6 +46,7 @@ public class LoginPage  {
 
 	public void clickOnSignInBtn() throws InterruptedException {
 		Thread.sleep(3000);
+		System.out.println("Click On Sign In Button- added this as a log to test git integration");
 		gMob.clickElement(signInBtn, "Click On Sign In Button");
 	}
 
